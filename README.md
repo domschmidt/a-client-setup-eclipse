@@ -13,6 +13,10 @@ Install Eclipse Angular Plugin:
 
 `https://marketplace.eclipse.org/content/angular-eclipse`
 
+or (alternative location):
+
+`https://github.com/angelozerr/angular-eclipse`
+
 # Import project
 
 import new project
