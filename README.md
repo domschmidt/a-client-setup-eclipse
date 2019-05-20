@@ -1,4 +1,4 @@
-# a-client-setup-eclipse
+# A Client setup for Eclipse
 Eclipse setup for A Client
 
 # download
