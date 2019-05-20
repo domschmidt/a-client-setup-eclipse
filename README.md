@@ -40,7 +40,7 @@ Style -> SCSS
 Routing -> Check
 
 # No Run Configuration possible
-Eclipse Angular Plugin can handle NG commands only.
+Unfortunately, Eclipse Angular Plugin can handle NG commands only. That means we have to use a Terminal.
 
 # Terminal
 Open terminal and execute
